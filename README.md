@@ -31,14 +31,40 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(18).pdf" style="text-decoration:none;">Mathematical Proofs: A Transition to Advanced Mathematics</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(19).pdf" style="text-decoration:none;">Diagnostic Liquid-Based Cytology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(19).pdf" style="text-decoration:none;">How Not to Be Wrong: The Power of Mathematical Thinking</a></b></li>
  
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(20).pdf" style="text-decoration:none;">Methods of Solving Calculus Problems</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(21).pdf" style="text-decoration:none;">Numbers and Functions: Steps into Analysis </a></b></li>  
                                              
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(22).pdf" style="text-decoration:none;">Methods of Solving Calculus Problems</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(22).pdf" style="text-decoration:none;">The Man Who Loved Only Numbers</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(23).pdf" style="text-decoration:none;">Understanding Pure Mathematics</a></b></li>  
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(24).pdf" style="text-decoration:none;">The Music of the Primes: Why an Unsolved Problem in Mathematics Matters</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(25).pdf" style="text-decoration:none;">The Drunkard's Walk: How Randomness Rules Our Lives</a></b></li>  
+                                             
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(26).pdf" style="text-decoration:none;">From Here to Infinity</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(27).pdf" style="text-decoration:none;">Uncle Petros and Goldbach's Conjecture</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(28).pdf" style="text-decoration:none;">How to Lie with Statistics</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(29).pdf" style="text-decoration:none;">Journey through Genius: The Great Theorems of Mathematics</a></b></li>  
+                                             
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(30).pdf" style="text-decoration:none;">Infinite Powers: How Calculus Reveals the Secrets of the Universe</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(31).pdf" style="text-decoration:none;">A Mathematician's Apology</a></b></li>  
+     
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
  </ul>
  
