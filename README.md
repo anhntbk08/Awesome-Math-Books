@@ -20,12 +20,12 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(10).pdf" style="text-decoration:none;">Chaos: Making a New Science</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(11).pdf" style="text-decoration:none;">How to Read and Do Proofs: An Introduction to Mathematical Thought Processes</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(12).pdf" style="text-decoration:none;">Numbers: Rational and Irrational</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(13).pdf" style="text-decoration:none;">Atlas of Prostatic Cytology: Techniques and Diagnosis</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(13).pdf" style="text-decoration:none;">e: The Story of a Number</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(14).pdf" style="text-decoration:none;"> Fundamentals of cytology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(14).pdf" style="text-decoration:none;"> Fermat's Last Theorem</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(15).pdf" style="text-decoration:none;">Medical Biology Textbook</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(15).pdf" style="text-decoration:none;">God Created the Integers: The Mathematical Breakthroughs That Changed History</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(16).pdf" style="text-decoration:none;">Mathematical Reasoning: Writing and Proof</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(17).pdf" style="text-decoration:none;">Mathematical Logic For Applications</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(18).pdf" style="text-decoration:none;">Mathematical Proofs: A Transition to Advanced Mathematics</a></b></li>  
