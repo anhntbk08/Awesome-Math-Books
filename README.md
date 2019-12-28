@@ -52,19 +52,16 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(30).pdf" style="text-decoration:none;">Infinite Powers: How Calculus Reveals the Secrets of the Universe</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(31).pdf" style="text-decoration:none;">A Mathematician's Apology</a></b></li>  
      
-     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(32).pdf" style="text-decoration:none;">Men of Mathematics: The Lives and Achievements of the Great Mathematicians from Zeno to Poincaré</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(33).pdf" style="text-decoration:none;">The Signal and the Noise: Why So Many Predictions Fail-but Some Don't</a></b></li>  
+                                             
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(34).pdf" style="text-decoration:none;">Imagining Numbers: (particularly the square root of minus fifteen)</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/mlo(35).pdf" style="text-decoration:none;">Proofs and Refutations</a></b></li>  
+        
    
    
    
    
    
-   
-   
-   
-   
-   
-   
-   
-
  </ul>
  
